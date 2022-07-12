@@ -8,4 +8,4 @@ http://www.optimization-online.org/DB_FILE/2014/08/4498.pdf
 https://hal.inria.fr/hal-00490826/
     
 
-![3d_graph_png](https://user-images.githubusercontent.com/58529391/178594900-836cecfe-5ce4-480a-87cf-0bad49d9a225.svg)
+
